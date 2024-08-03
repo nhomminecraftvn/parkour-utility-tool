@@ -1,0 +1,1 @@
+execute as @a[scores={plate_curr=1..}] run function main:parkour/pressure_plate/checkpoint/set

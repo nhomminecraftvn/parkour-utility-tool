@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "lava",
+        "fire",
+        "soul_fire",
+        "campfire",
+        "soul_campfire"
+    ]
+}
