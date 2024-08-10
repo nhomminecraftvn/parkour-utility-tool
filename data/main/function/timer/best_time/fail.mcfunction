@@ -1,1 +1,0 @@
-tellraw @s "§7Your didn't got new a best time"

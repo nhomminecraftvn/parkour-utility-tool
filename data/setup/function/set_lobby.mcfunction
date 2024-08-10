@@ -1,5 +1,0 @@
-tellraw @s ["Facing"]
-tellraw @s [{"text": "0*","clickEvent": {"action": "run_command","value": "/function setup:facing/1"}}]
-tellraw @s [{"text": "90*","clickEvent": {"action": "run_command","value": "/function setup:facing/2"}}]
-tellraw @s [{"text": "180*","clickEvent": {"action": "run_command","value": "/function setup:facing/3"}}]
-tellraw @s [{"text": "270*","clickEvent": {"action": "run_command","value": "/function setup:facing/4"}}]

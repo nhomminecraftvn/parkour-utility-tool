@@ -1,2 +1,0 @@
-execute unless entity @e[tag=endpoint,type=armor_stand,limit=1] run particle end_rod ~ ~ ~ -.5 0 -.5 1 20 normal
-execute unless entity @e[tag=endpoint,type=armor_stand,limit=1] summon armor_stand run data merge entity @s {Tags:["endpoint"],Invisible:true}
