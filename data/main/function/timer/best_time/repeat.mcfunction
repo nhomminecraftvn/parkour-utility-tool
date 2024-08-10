@@ -1,0 +1,1 @@
+execute as @a[tag=!hasBestTime] run scoreboard players set @s best_timer 1073741823

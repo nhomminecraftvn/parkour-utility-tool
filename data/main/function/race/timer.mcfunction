@@ -1,0 +1,1 @@
+execute as @a run function main:timer/end/timer/calc

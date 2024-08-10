@@ -1,0 +1,9 @@
+title @s[scores={pm_min=0}] actionbar [{"score": {"name": "@s","objective": "pm_sec"}},"§7.",{"score": {"name": "@s","objective": "pm_tick"}}]
+
+title @s[scores={pm_hour=0,pm_min=1..,pm_sec=..9}] actionbar [{"score": {"name": "@s","objective": "pm_min"}},"§7:§f0",{"score": {"name": "@s","objective": "pm_sec"}},"§7.",{"score": {"name": "@s","objective": "pm_tick"}}]
+title @s[scores={pm_hour=0,pm_min=1..,pm_sec=10}] actionbar [{"score": {"name": "@s","objective": "pm_min"}},"§7:§f",{"score": {"name": "@s","objective": "pm_sec"}},"§7.",{"score": {"name": "@s","objective": "pm_tick"}}]
+
+title @s[scores={pm_hour=1..,pm_min=..9,pm_sec=..9}] actionbar [{"score": {"name": "@s","objective": "pm_hour"}},"§7:§f0",{"score": {"name": "@s","objective": "pm_min"}},"§7:§f0",{"score": {"name": "@s","objective": "pm_sec"}},"§7.",{"score": {"name": "@s","objective": "pm_tick"}}]
+title @s[scores={pm_hour=1..,pm_min=..9,pm_sec=10..}] actionbar [{"score": {"name": "@s","objective": "pm_hour"}},"§7:§f0",{"score": {"name": "@s","objective": "pm_min"}},"§7:§f",{"score": {"name": "@s","objective": "pm_sec"}},"§7.",{"score": {"name": "@s","objective": "pm_tick"}}]
+title @s[scores={pm_hour=1..,pm_min=10..,pm_sec=..9}] actionbar [{"score": {"name": "@s","objective": "pm_hour"}},"§7:§f",{"score": {"name": "@s","objective": "pm_min"}},"§7:§f0",{"score": {"name": "@s","objective": "pm_sec"}},"§7.",{"score": {"name": "@s","objective": "pm_tick"}}]
+title @s[scores={pm_hour=1..,pm_min=10..,pm_sec=10..}] actionbar [{"score": {"name": "@s","objective": "pm_hour"}},"§7:§f",{"score": {"name": "@s","objective": "pm_min"}},"§7:§f",{"score": {"name": "@s","objective": "pm_sec"}},"§7.",{"score": {"name": "@s","objective": "pm_tick"}}]
