@@ -1,1 +1,1 @@
-execute as @a[scores={plate_curr=1..}] run function main:parkour/pressure_plate/checkpoint/set
+execute as @a[tag=inparkour,tag=pressure_plate,tag=main_plate] run function main:parkour/pressure_plate/checkpoint/set
